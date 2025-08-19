@@ -9,6 +9,6 @@
 RTP與公司利潤之間 Trade-off
 ![RTP Profit](RTP_Profit.png)
 
-以Python / Cython / C++ 實作 Monte Carlo 方法，最終 C++ 版本加速至原始 Python版本 46 倍。
+以Python / Cython / C++ 實作 Monte Carlo 方法，最終 C++ 版本(約0.133s)加速至原始 Python 版本(約6.128s)的 46 倍。
 ![Benchmark](python_cython_c++_mc_benchmark.png)
 
